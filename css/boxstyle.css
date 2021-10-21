@@ -1,0 +1,16 @@
+.container{
+    height: fit-content;
+    width: 100%;
+    background-color: yellow;
+}
+.innerbox1{
+    height: 20px;
+    width: 35px;
+    background-color: tomato;
+}
+.innerbox2{
+    background-color: turquoise;
+}
+.myparagraph{
+    font-size: 3vw;
+    font-family: 'Qahiri', sans-serif;}
